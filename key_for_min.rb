@@ -11,5 +11,6 @@ def key_for_min_value(name_hash)
       i = temp[index]
     end
   end
-  
+  name_hash.each do |key, value|
+    if n
 end
